@@ -4,7 +4,7 @@
 
 I am a London-based software engineer with more than six years of commercial experience building, supporting, and improving business-critical applications. My main background is in **C#, .NET, WPF, Entity Framework, and SQL Server**, with additional experience in ASP.NET Core, Angular, Python/Django, DevOps, and technical product delivery.
 
-I enjoy understanding how a business actually works, turning that knowledge into dependable software, and solving the production problems that appear as systems grow. I am currently completing an **MSc in Software Engineering** in London and am open to UK opportunities in .NET development, software engineering, application support, and technical product engineering.
+I enjoy understanding how a business actually works, turning that knowledge into dependable software, and solving the production problems that appear as systems grow. I have completed an **MSc in Software Engineering** in London and am open to UK opportunities in .NET development, software engineering, application support, and technical product engineering.
 
 ## What I bring
 
@@ -43,7 +43,6 @@ A sanitized portfolio based on my long-term work on a business-critical, multi-c
 
 ## Current focus
 
-- Completing my MSc in Software Engineering.
 - Strengthening modern .NET, API, cloud, automated testing, and delivery practices.
 - Seeking a UK role where I can contribute enterprise-development experience while continuing to grow in a modern engineering team.
 
