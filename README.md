@@ -2,6 +2,8 @@
 
 ### .NET Software Engineer | Enterprise Applications | Technical Product Experience
 
+📍 London, UK · 🕒 Europe/London (GMT/BST)
+
 I am a London-based software engineer with more than six years of commercial experience building, supporting, and improving business-critical applications. My main background is in **C#, .NET, WPF, Entity Framework, and SQL Server**, with additional experience in ASP.NET Core, Angular, Python/Django, DevOps, and technical product delivery.
 
 I enjoy understanding how a business actually works, turning that knowledge into dependable software, and solving the production problems that appear as systems grow. I have completed an **MSc in Software Engineering** in London and am open to UK opportunities in .NET development, software engineering, application support, and technical product engineering.
