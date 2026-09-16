@@ -44,6 +44,7 @@ A sanitized portfolio based on my long-term work on a business-critical, multi-c
 ## Current focus
 
 - Strengthening modern .NET, API, cloud, automated testing, and delivery practices.
+- Sharing practical software-engineering knowledge through teaching and mentoring, and exploring lecturer opportunities.
 - Seeking a UK role where I can contribute enterprise-development experience while continuing to grow in a modern engineering team.
 
 ## Connect
