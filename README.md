@@ -31,9 +31,9 @@ I translated stakeholder needs into development tasks, coordinated a five-person
 
 ## Featured work
 
-### [SmartERP Portfolio](https://talhajavedawan.github.io/SmartERP-Portfolio/)
+### [Talha Javed Portfolio](https://talhajavedawan.github.io/SmartERP-Portfolio/)
 
-A concise engineering portfolio covering the ERP’s business scale, product screens, architecture, technical challenges and representative C# examples.
+My engineering portfolio, featuring SmartERP as the main case study alongside technical work and project delivery experience.
 
 [View the live portfolio](https://talhajavedawan.github.io/SmartERP-Portfolio/) · [View the repository](https://github.com/talhajavedawan/SmartERP-Portfolio)
 
