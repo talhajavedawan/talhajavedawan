@@ -31,11 +31,11 @@ I translated stakeholder needs into development tasks, coordinated a five-person
 
 ## Featured work
 
-### [Talha Javed Portfolio](https://talhajavedawan.github.io/SmartERP-Portfolio/)
+### [Talha Javed Portfolio](https://talhajavedawan.github.io/talhajaved-portfolio/)
 
 My engineering portfolio, featuring SmartERP as the main case study alongside technical work and project delivery experience.
 
-[View the live portfolio](https://talhajavedawan.github.io/SmartERP-Portfolio/) · [View the repository](https://github.com/talhajavedawan/SmartERP-Portfolio)
+[View the live portfolio](https://talhajavedawan.github.io/talhajaved-portfolio/) · [View the repository](https://github.com/talhajavedawan/talhajaved-portfolio)
 
 > Production source code, credentials, customer information and confidential business rules remain private.
 
