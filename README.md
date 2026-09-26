@@ -1,6 +1,6 @@
 # Talha Javed
 
-### .NET Software Engineer | Application Support | Enterprise Systems
+### .NET Software Engineer | Application Support & IT Systems | C# | SQL Server | ERP | London
 
 📍 London, UK · 6+ years of commercial software-engineering experience
 
@@ -41,6 +41,6 @@ My engineering portfolio, featuring SmartERP as the main case study alongside te
 
 ## Current direction
 
-I have completed an **MSc in Software Engineering** and am open to UK opportunities in **.NET development, application support, technical support and enterprise systems**. I bring hands-on engineering depth together with experience supporting live users and business-critical software.
+I have completed an **MSc in Software Engineering at The University of Bolton** and am open to office-based or hybrid roles in London across **.NET development, application support, IT systems, technical support and ERP**. I bring hands-on engineering depth together with experience supporting live users and business-critical software.
 
 [LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/) · [Email](mailto:talhajavedawan7@gmail.com)
