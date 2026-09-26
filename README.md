@@ -23,6 +23,11 @@ I build, support and troubleshoot business-critical applications. My background 
 | Desktop | WPF, XAML, DevExpress, MVVM |
 | Data | SQL Server, relational modelling, migrations and reporting |
 | Support & delivery | Application support, production troubleshooting, REST APIs, Git, Docker, Jenkins, AWS |
+| Project delivery & quality | Scrum, sprint planning, Trello, requirements gathering, task coordination, API testing, QA, source control, release support |
+
+## Delivery experience
+
+I translated stakeholder needs into development tasks, coordinated a five-person graduate team during ERP web modernisation, reviewed progress in Scrum-style iterations and supported testing and releases. My hands-on workflow includes Trello for task tracking, Git for source control, API testing and quality checks across business workflows.
 
 ## Featured work
 
