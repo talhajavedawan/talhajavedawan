@@ -31,11 +31,11 @@ I translated stakeholder needs into development tasks, coordinated a five-person
 
 ## Featured work
 
-### [Talha Javed Portfolio](https://talhajavedawan.github.io/talhajaved-portfolio/)
+### [Talha Javed Portfolio](https://talhajavedawan.github.io/portfolio/)
 
 My engineering portfolio, featuring a case study of the ERP work I carried out at MicroKosm and separate code examples written for this portfolio.
 
-[View the live portfolio](https://talhajavedawan.github.io/talhajaved-portfolio/) · [View the repository](https://github.com/talhajavedawan/talhajaved-portfolio)
+[View the live portfolio](https://talhajavedawan.github.io/portfolio/) · [View the repository](https://github.com/talhajavedawan/portfolio)
 
 > The ERP belongs to the companies I worked with. This portfolio describes my contributions; its sample code was written separately and does not reproduce the companies’ source code.
 
