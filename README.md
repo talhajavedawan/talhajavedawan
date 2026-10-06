@@ -1,46 +1,33 @@
 # Talha Javed
 
-### .NET Software Engineer | Application Support & IT Systems | C# | SQL Server | ERP | London
+### .NET Software Engineer | Application Support | ERP Systems
 
-📍 London, UK · 6+ years of commercial software-engineering experience
+London, UK · 6+ years of commercial software engineering experience
 
-I developed and supported business-critical applications at MicroKosm from 2019 to 2025. My background combines **C#, .NET, SQL Server and ERP engineering** with production support, user-facing problem solving, database investigation, stakeholder communication and application modernisation.
-
-## Impact
-
-- Contributed to the companies’ custom ERP used by **200–250 people across 7–9 businesses**.
-- Delivered connected finance, procurement, inventory, CRM and HR workflows.
-- Implemented **15-minute idle-session security across 100+ screens**.
-- Supported Outlook integration handling **5,000+ items**.
-- Resolved complex production issues involving data integrity, performance, memory and integrations.
-- Mentored junior developers and led five graduates during web modernisation.
+I build and support business applications using **C#, .NET, WPF, SQL Server and Entity Framework**. My experience includes backend development, production troubleshooting, REST APIs and enterprise ERP systems used by **200+ users across multiple businesses**.
 
 ## Core skills
 
-| Area | Technologies |
-|---|---|
-| .NET | C#, .NET Framework, ASP.NET Core, Web API, EF6, EF Core |
-| Desktop | WPF, XAML, DevExpress, MVVM |
-| Data | SQL Server, relational modelling, migrations and reporting |
-| Support & delivery | Application support, production troubleshooting, REST APIs, Git, Docker, Jenkins, AWS |
-| Project delivery & quality | Scrum, sprint planning, Trello, requirements gathering, task coordination, API testing, QA, source control, release support |
+**C# · .NET · ASP.NET Core · WPF · SQL Server · Entity Framework · REST APIs · Git · Docker**
 
-## Delivery experience
+## Selected impact
 
-I translated stakeholder needs into development tasks, coordinated a five-person graduate team during ERP web modernisation, reviewed progress in Scrum-style iterations and supported testing and releases. My hands-on workflow includes Trello for task tracking, Git for source control, API testing and quality checks across business workflows.
+- Built and supported a multi-company ERP used by **200–250 users**.
+- Resolved production issues across application logic, SQL, performance and integrations.
+- Implemented session security across **100+ application windows**.
+- Built Outlook integration supporting **5,000+ items**.
+- Mentored junior developers and supported ERP web modernisation.
 
 ## Featured work
 
 ### [Talha Javed Portfolio](https://talhajavedawan.github.io/portfolio/)
 
-My engineering portfolio, featuring a case study of the ERP work I carried out at MicroKosm and separate code examples written for this portfolio.
+A concise case study of my .NET, ERP and application-support work, with representative code and architecture examples.
 
-[View the live portfolio](https://talhajavedawan.github.io/portfolio/) · [View the repository](https://github.com/talhajavedawan/portfolio)
+[View portfolio](https://talhajavedawan.github.io/portfolio/) · [View repository](https://github.com/talhajavedawan/portfolio)
 
-> The ERP belongs to the companies I worked with. This portfolio describes my contributions; its sample code was written separately and does not reproduce the companies’ source code.
+---
 
-## Current direction
+**MSc Software Engineering — The University of Bolton**
 
-I have completed an **MSc in Software Engineering at The University of Bolton** and am open to office-based or hybrid roles in London across **.NET development, application support, IT systems, technical support and ERP**. I bring hands-on engineering depth together with experience supporting live users and business-critical software.
-
-[LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/) · [Email](mailto:talhajavedawan7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/) · [Portfolio](https://talhajavedawan.github.io/portfolio/) · [Email](mailto:talhajavedawan7@gmail.com)
