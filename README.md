@@ -1,7 +1,7 @@
 # Talha Javed
 
 **.NET Software Engineer | Application Support | ERP Systems**  
-London, UK · 6+ years of commercial experience
+London, UK · Nearly six years of professional experience
 
 I build and support business applications with C#, .NET, WPF, SQL Server and Entity Framework. At MicroKosm, I developed and supported an ERP used by 200–250 people across nine businesses.
 
@@ -12,4 +12,4 @@ I build and support business applications with C#, .NET, WPF, SQL Server and Ent
 - Session security across 100+ application windows
 - Developer mentoring and ERP modernisation
 
-[Portfolio](https://talhajavedawan.github.io/portfolio/) · [Engineering case study](https://github.com/talhajavedawan/portfolio) · [LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/) · [Email](mailto:talhajavedawan7@gmail.com)
+[Download CV](https://talhajavedawan.github.io/portfolio/cv/Talha_Javed_CV.pdf) · [Portfolio](https://talhajavedawan.github.io/portfolio/) · [Engineering case study](https://github.com/talhajavedawan/portfolio) · [LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/) · [Email](mailto:talhajavedawan7@gmail.com)
