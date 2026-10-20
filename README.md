@@ -3,7 +3,9 @@
 **Senior .NET Software Engineer | Application Support | ERP Systems**  
 London, UK · 6+ years of professional experience
 
-I’m a .NET software engineer with 6+ years of experience building and supporting business applications using C#, WPF, SQL Server and Entity Framework. At MicroKosm, I developed and supported an ERP used by 200–250 people across nine businesses.  My work combines feature development, production troubleshooting and technical delivery, including REST APIs and ERP modernisation.   
+I’m a .NET software engineer with 6+ years of experience building and supporting business applications using C#, WPF, SQL Server and Entity Framework. At MicroKosm, I developed and supported an ERP used by 200–250 people across nine businesses.  My work combines feature development, production troubleshooting and technical delivery, including REST APIs and ERP modernisation.  
+
+
 
 
 **Technical skills:** C# · .NET Framework 4.6/4.8 · ASP.NET Core Web API · REST APIs · WPF · XAML · DevExpress · EF6 · EF Core · SQL Server · LINQ · Git
