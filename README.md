@@ -3,7 +3,8 @@
 **Senior .NET Software Engineer | Application Support | ERP Systems**  
 London, UK · 6+ years of professional experience
 
-Hi, I’m Talha, a .NET engineer who builds and supports business-critical finance and operations software. At MicroKosm, I progressed from Software Engineer to Senior Software Engineer and Technical Product Manager, contributing to an ERP used by 200–250 people across nine businesses. My work includes delivering finance, procurement and inventory features from requirements through testing and release; diagnosing production issues across .NET, Entity Framework and SQL Server; and resolving data-integrity, performance, memory and integration defects. I integrated Outlook with the ERP to handle 5,000+ email items and implemented 15-minute idle sign-out across 100+ application windows. I also review code, mentor developers and coordinated five graduates delivering ASP.NET Core Web API and Angular features for ERP modernisation.
+I’m a .NET software engineer with 6+ years of experience building and supporting business applications using C#, WPF, SQL Server and Entity Framework. At MicroKosm, I developed and supported an ERP used by 200–250 people across nine businesses.  My work combines feature development, production troubleshooting and technical delivery, including REST APIs and ERP modernisation.   
+
 
 **Technical skills:** C# · .NET Framework 4.6/4.8 · ASP.NET Core Web API · REST APIs · WPF · XAML · DevExpress · EF6 · EF Core · SQL Server · LINQ · Git
 
