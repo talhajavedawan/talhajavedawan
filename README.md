@@ -5,7 +5,7 @@ London, UK · 6+ years of professional experience
 
 I’m a .NET software engineer with 6+ years of experience building and supporting business applications using C#, WPF, SQL Server and Entity Framework. At MicroKosm, I developed and supported an ERP used by 200–250 people across nine businesses. My work combines feature development, production troubleshooting and technical delivery, including REST APIs and ERP modernisation.
 
-### Client companies supported through MicroKosm ERP
+### Client companies i supported through MicroKosm ERP
 
 HaanaTech Ltd · ABT Europe Limited · Z&F Corporation · Al Bijjar Trading (FZC) · JAZ Trade International FZCO · ABT Logistics · ZAS Agencies
 
