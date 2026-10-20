@@ -13,6 +13,6 @@ I build and support business-critical finance and operations software with C#, .
 - Integrated Outlook with the ERP to handle 5,000+ email items and implemented 15-minute idle sign-out across 100+ application windows.
 - Reviewed code, mentored developers and coordinated five graduates delivering ASP.NET Core Web API and Angular features for ERP modernisation.
 
-**Recruiter keywords:** Enterprise applications · ERP · Application support · Production troubleshooting · Root-cause analysis · Data integrity · Performance troubleshooting · API and functional testing · Requirements gathering · Stakeholder communication · Agile/Scrum · Code review · Technical leadership · Mentoring · Release coordination
+**Industry Experience:** Enterprise applications · ERP · Application support · Production troubleshooting · Root-cause analysis · Data integrity · Performance troubleshooting · API and functional testing · Requirements gathering · Stakeholder communication · Agile/Scrum · Code review · Technical leadership · Mentoring · Release coordination
 
 [Download CV](https://talhajavedawan.github.io/portfolio/cv/Talha_Javed_CV.pdf) · [Portfolio](https://talhajavedawan.github.io/portfolio/) · [Engineering case study](https://github.com/talhajavedawan/portfolio) · [LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/) · [Email](mailto:talhajavedawan7@gmail.com)
