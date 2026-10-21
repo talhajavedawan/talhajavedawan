@@ -5,7 +5,7 @@ London, UK · 6+ years of professional experience
 
 I’m a .NET software engineer with 6+ years of experience building and supporting business applications using C#, WPF, SQL Server and Entity Framework. I contributed to developing and supporting a multi-company ERP used by 200–250 people across nine businesses. My work combines feature delivery, production troubleshooting and technical coordination, including REST API work and ERP modernisation.
 
-### My Application Support Clients
+### Application Support
 
 HaanaTech Ltd · ABT Europe Limited · Z&F Corporation · Al Bijjar Trading (FZC) · JAZ Trade International FZCO · ABT Logistics · ZAS Agencies
 
